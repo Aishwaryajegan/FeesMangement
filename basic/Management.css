@@ -1,0 +1,65 @@
+.username{
+    
+        text-align: -webkit-center;
+}
+.password{
+        
+    margin-top: 20px;
+     text-align: -webkit-center;
+}
+.butt{
+       margin-left: 360px;
+    margin-top: 20px;
+}
+.ruser{
+    margin-left: 78px;
+}
+.ruserla{
+    margin-left: 48px;
+}
+.rpass{
+    margin-left: 78px;
+    margin-top: 13px;
+}
+.rpassla{
+    margin-left:20px;
+}
+.remail{
+        margin-left: 79px;
+    margin-top: 14px;
+}
+.remailla{
+    margin-left: 47px;
+}
+.rphone{
+        margin-top: 14px;
+    margin-left: 78px;
+}
+.rphonela{
+    margin-left: 39px;
+}
+.rgender{
+        margin-left: 77px;
+    margin-top: 18px;
+}
+.rgenderla{
+        margin-left: 35px;
+}
+.rlang{
+        margin-left: 74px;
+    margin-top: 10px;
+}
+.rlangla{
+        margin-left: 21px;
+}
+.rctry{
+    margin-left: 77px;
+    margin-top: 10px;
+}
+.rctryla{
+    margin-left: 32px;
+}
+.butreg{
+        margin-left: 126px;
+    margin-top: 19px;
+}

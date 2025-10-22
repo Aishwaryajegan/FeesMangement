@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+.loginbody {
+  font-family: 'Poppins', sans-serif;
+  background-color: #80aaff;
+  margin: 0;
+  padding: 0;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 10px;
+}
+
+.formcolor {
+  background-color: white;
+  border-radius: 12px;
+  padding: 40px;
+  width: 100%;
+  max-width: 600px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+
+select {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+
+.but{
+  background-color: #007bff;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.but:hover {
+  background-color: #0056b3;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+  gap: 10px;
+}
+
+.divider hr {
+  flex: 1;
+  border: none;
+  border-top: 1px solid #181717;
+}
+
+.divider span {
+  font-weight: bold;
+  color: #333;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-bottom: 20px;
+}
+
+.social-icons i {
+  font-size: 24px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.google{
+  color:red;
+}
+
+.fac{
+  color:#005a88;
+}
+.lin{
+  color:#1f5b8b;
+}
+
+.social-icons i:hover {
+  transform: scale(1.1);
+  background-color: #f0f0f0;
+}
+
+.login-link {
+  text-align: center;
+  color: #333;
+  font-weight: 500;
+}
+
+.login-link u {
+  color: #0077b5;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .formcolor {
+    padding: 25px;
+  }
+
+}

@@ -1,0 +1,25 @@
+.logform{
+     background-color: white;
+    margin-top: 40px;
+}
+.logcontainer {
+ 
+    border-radius: 8px;
+ 
+    max-width: 600px;
+}
+.but{
+    background-color: rgb(245, 66, 185);
+     color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+ 
+}
+
+@media (max-width:750px){
+
+
+
+}
