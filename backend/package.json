@@ -1,0 +1,25 @@
+{
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "curd apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "curd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nil"
+  },
+  "keywords": [
+    "curd"
+  ],
+  "author": "aishu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.10"
+  }
+}
