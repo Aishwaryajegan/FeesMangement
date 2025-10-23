@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { ToastContainer, toast } from 'react-toastify';
 import "./Student.css";
+import "./Studenttable.css";
 import axios from "axios";
 import { useLocation } from "react-router-dom";
 
@@ -130,7 +131,7 @@ const deletedata = (fee) => {
 };
 
   return (
-    <div>
+    <div className="student-table-wrapper">
       <ToastContainer />
       <div className="form-wrapper">
         <form className="formcolor form-container" onSubmit={add_form}>
