@@ -87,7 +87,7 @@ axios.post("http://localhost:3003/studentdetail/delete",
       }
      
   return(
-    <div>
+    <div className="student-table-wrapper">
        <ToastContainer />
        <div className="my-5">
  <h3 className="">Student List</h3>
