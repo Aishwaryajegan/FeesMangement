@@ -1,6 +1,8 @@
 PROJECT DESCRIBTION
-
-The Student Fees Management System is a web-based application designed to assist student details  managing their Fees structures. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive, and user-friendly application.
+💼 Fees Management System - A full-stack web app built with ReactJS, Node.js, Express, HTML, and CSS.
+Includes Admin Authentication for secure access and control.
+Manages Fees Structure, Student Records, and Payment Tracking efficiently.
+Fully responsive design with an intuitive dashboard for administrators.
 
 
 # Getting Started with Create React App
