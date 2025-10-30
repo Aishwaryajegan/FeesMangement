@@ -1,5 +1,6 @@
 PROJECT DESCRIBTION
-💼 Fees Management System - A full-stack web app built with ReactJS, Node.js, Express, HTML, and CSS.
+💼 Fees Management System
+A full-stack web app built with ReactJS, Node.js, Express, HTML, and CSS.
 Includes Admin Authentication for secure access and control.
 Manages Fees Structure, Student Records, and Payment Tracking efficiently.
 Fully responsive design with an intuitive dashboard for administrators.
